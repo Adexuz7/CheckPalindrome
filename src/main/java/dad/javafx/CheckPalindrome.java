@@ -63,7 +63,6 @@ public class CheckPalindrome extends Application {
 			resultLabel.setStyle("-fx-text-fill: red; -fx-font: italic bold 30 sans-serif;");
 		}
 		
-		
 	}
 
 }
